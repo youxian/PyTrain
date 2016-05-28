@@ -1,0 +1,172 @@
+/usr/local/Cellar/ios-webkit-debug-proxy/1.5/bin/ios_webkit_debug_proxy -c 884a7858387d194dcb8da51a0dd2a0b3bee826be:27753  -d
+
+ python -m pydoc -p 8080
+
+
+  sudo python setup.py install
+
+  /usr/local/Cellar/ios-webkit-debug-proxy/1.5/bin/ios_webkit_debug_proxy -c 884a7858387d194dcb8da51a0dd2a0b3bee826be:27753  -d
+
+
+ python 打开API：
+ python -m pydoc -p 8080
+ http://localhost:8080/
+
+
+/Users/chenyating/Documents/Project/Source/Appium/sample-code-master/apps/TestApp/build/release-iphonesimulator/TestApp.app
+
+
+ ithunder 5.8.1.1931
+/Users/chenyating/Library/Developer/Xcode/DerivedData/iThunder-elqqqfdggjdcdlemhwhwibusagtj/Build/Products/Debug-iphoneos/iThunder.ipa
+
+
+
+ViewWeb
+
+/Users/chenyating/Documents/Project/Source/Appium/sample-code-master/apps/WebViewApp/build/release-iphonesimulator/WebViewApp.app
+
+
+ instruments -s devices
+
+
+
+执行smart_monkey：
+
+
+/Users/chenyating/Documents/Project/Source/CrashMonkey4IOS-master/bin/smart_monkey -a com.xunlei.ithunder  -w aca2f182123d5339f7006bd0ff95a671ec275c60 -n 3 --event-number 50  --compress-result 20% -detail-count 50  -d  /Users/chenyating/Documents/Project/MonkeyResult --drop-useless-img  -s 
+
+
+
+/Users/chenyating/Documents/Project/Source/CrashMonkey4IOS-master/bin/smart_monkey -a com.xunlei.ithunder  -w aca2f182123d5339f7006bd0ff95a671ec275c60 -n 3 --event-number 500  --compress-result 20% -detail-count 50  -d  /Users/chenyating/Documents/Project/MonkeyResult --drop-useless-img  -s /Users/chenyating/Library/Developer/Xcode/DerivedData/iThunder-eypygexcmomedmgbmwterjpcqzfx/Build/Products/Debug-iphoneos/iThunder.app.dSYM
+
+
+mysql-connector-java.jar
+
+
+
+ 
+
+bundleID:
+iPhone4:   		d1bb25378010a1d9efe2112d1a758658fc46a9da
+iPhone5s： 		1ad663df02e8fb8cd02ec2e9cc5f6afc8c3eed54
+XL-iPhone6p：   884a7858387d194dcb8da51a0dd2a0b3bee826be   ios8.0
+iPhone6S:   	aca2f182123d5339f7006bd0ff95a671ec275c60
+iPhone6Plus：   13855295f562368a790c9940cabaf6e33e7595a9
+*** LOCAL GEMS ***
+
+bigdecimal (1.2.0)
+CFPropertyList (2.2.8)
+erubis (2.7.0)
+io-console (0.4.2)
+json (1.7.7)
+libxml-ruby (2.6.0)
+minitest (4.3.2)
+nokogiri (1.5.6)
+psych (2.0.0)
+rake (0.9.6)
+rdoc (4.0.0)
+sqlite3 (1.3.7)
+test-unit (2.0.0.0)
+
+
+Chenyas-MacBook:Debug-iphoneos chenyating$  sudo gem install cocoapods
+Password:
+Fetching: i18n-0.7.0.gem (100%)
+Successfully installed i18n-0.7.0
+Fetching: thread_safe-0.3.5.gem (100%)
+Successfully installed thread_safe-0.3.5
+Fetching: tzinfo-1.2.2.gem (100%)
+Successfully installed tzinfo-1.2.2
+Fetching: minitest-5.8.2.gem (100%)
+Successfully installed minitest-5.8.2
+Fetching: activesupport-4.2.4.gem (100%)
+Successfully installed activesupport-4.2.4
+Fetching: nap-1.0.0.gem (100%)
+Successfully installed nap-1.0.0
+Fetching: fuzzy_match-2.0.4.gem (100%)
+Successfully installed fuzzy_match-2.0.4
+Fetching: cocoapods-core-0.39.0.gem (100%)
+Successfully installed cocoapods-core-0.39.0
+Fetching: claide-0.9.1.gem (100%)
+Successfully installed claide-0.9.1
+Fetching: colored-1.2.gem (100%)
+Successfully installed colored-1.2
+Fetching: xcodeproj-0.28.2.gem (100%)
+Successfully installed xcodeproj-0.28.2
+Fetching: cocoapods-downloader-0.9.3.gem (100%)
+Successfully installed cocoapods-downloader-0.9.3
+Fetching: cocoapods-plugins-0.4.2.gem (100%)
+Successfully installed cocoapods-plugins-0.4.2
+Fetching: cocoapods-search-0.1.0.gem (100%)
+Successfully installed cocoapods-search-0.1.0
+Fetching: cocoapods-stats-0.6.2.gem (100%)
+Successfully installed cocoapods-stats-0.6.2
+Fetching: cocoapods-try-0.5.1.gem (100%)
+Successfully installed cocoapods-try-0.5.1
+Fetching: netrc-0.7.8.gem (100%)
+Successfully installed netrc-0.7.8
+Fetching: cocoapods-trunk-0.6.4.gem (100%)
+Successfully installed cocoapods-trunk-0.6.4
+Fetching: molinillo-0.4.0.gem (100%)
+Successfully installed molinillo-0.4.0
+Fetching: escape-0.0.4.gem (100%)
+Successfully installed escape-0.0.4
+Fetching: cocoapods-0.39.0.gem (100%)
+Successfully installed cocoapods-0.39.0
+Parsing documentation for i18n-0.7.0
+Installing ri documentation for i18n-0.7.0
+Parsing documentation for thread_safe-0.3.5
+Installing ri documentation for thread_safe-0.3.5
+Parsing documentation for tzinfo-1.2.2
+Installing ri documentation for tzinfo-1.2.2
+Parsing documentation for minitest-5.8.2
+Installing ri documentation for minitest-5.8.2
+Parsing documentation for activesupport-4.2.4
+unable to convert "\x84" from ASCII-8BIT to UTF-8 for lib/active_support/values/unicode_tables.dat, skipping
+Installing ri documentation for activesupport-4.2.4
+Parsing documentation for nap-1.0.0
+Installing ri documentation for nap-1.0.0
+Parsing documentation for fuzzy_match-2.0.4
+Installing ri documentation for fuzzy_match-2.0.4
+Parsing documentation for cocoapods-core-0.39.0
+Installing ri documentation for cocoapods-core-0.39.0
+Parsing documentation for claide-0.9.1
+Installing ri documentation for claide-0.9.1
+Parsing documentation for colored-1.2
+Installing ri documentation for colored-1.2
+Parsing documentation for xcodeproj-0.28.2
+Installing ri documentation for xcodeproj-0.28.2
+Parsing documentation for cocoapods-downloader-0.9.3
+Installing ri documentation for cocoapods-downloader-0.9.3
+Parsing documentation for cocoapods-plugins-0.4.2
+Installing ri documentation for cocoapods-plugins-0.4.2
+Parsing documentation for cocoapods-search-0.1.0
+Installing ri documentation for cocoapods-search-0.1.0
+Parsing documentation for cocoapods-stats-0.6.2
+Installing ri documentation for cocoapods-stats-0.6.2
+Parsing documentation for cocoapods-try-0.5.1
+Installing ri documentation for cocoapods-try-0.5.1
+Parsing documentation for netrc-0.7.8
+Installing ri documentation for netrc-0.7.8
+Parsing documentation for cocoapods-trunk-0.6.4
+Installing ri documentation for cocoapods-trunk-0.6.4
+Parsing documentation for molinillo-0.4.0
+Installing ri documentation for molinillo-0.4.0
+Parsing documentation for escape-0.0.4
+Installing ri documentation for escape-0.0.4
+Parsing documentation for cocoapods-0.39.0
+Installing ri documentation for cocoapods-0.39.0
+21 gems installed
+
+
+pod repo
+pod setup
+pod repo list
+pod install
+pod install --no-repo-update --verbose //不更新
+pod repo add xlspec  https://git-op.kuaipan.cn/thundermobile/xlpodssepc.git
+pod repo remove kuaipan-thundermobile-cocoapodsspecs
+git config remote.origin.url=https://git-op.kuaipan.cn/thundermobile/cocoapodsspecs.git
+pod repo add kuaipan-thundermobile-xlpodssepc https://git-op.kuaipan.cn/thundermobile/cocoapodsspecs.git
+cd ~/.cocoapods/repos/master
+git config -l

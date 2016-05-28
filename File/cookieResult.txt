@@ -1,0 +1,56 @@
+1
+<elementProp name=_cc_" elementType="Cookie" testname="_cc_">
+2
+<elementProp name=_l_g_" elementType="Cookie" testname="_l_g_">
+3
+<elementProp name=_m_h5_tk" elementType="Cookie" testname="_m_h5_tk">
+4
+<elementProp name=_m_h5_tk_enc" elementType="Cookie" testname="_m_h5_tk_enc">
+5
+<elementProp name=_nk_" elementType="Cookie" testname="_nk_">
+6
+<elementProp name=_tb_token_" elementType="Cookie" testname="_tb_token_">
+7
+<elementProp name=cna" elementType="Cookie" testname="cna">
+8
+<elementProp name=cookie1" elementType="Cookie" testname="cookie1">
+9
+<elementProp name=cookie17" elementType="Cookie" testname="cookie17">
+10
+<elementProp name=cookie2" elementType="Cookie" testname="cookie2">
+11
+<elementProp name=existShop" elementType="Cookie" testname="existShop">
+12
+<elementProp name=isg" elementType="Cookie" testname="isg">
+13
+<elementProp name=l" elementType="Cookie" testname="l">
+14
+<elementProp name=lgc" elementType="Cookie" testname="lgc">
+15
+<elementProp name=mt" elementType="Cookie" testname="mt">
+16
+<elementProp name=sg" elementType="Cookie" testname="sg">
+17
+<elementProp name=skt" elementType="Cookie" testname="skt">
+18
+<elementProp name=t" elementType="Cookie" testname="t">
+19
+<elementProp name=tg" elementType="Cookie" testname="tg">
+20
+<elementProp name=thw" elementType="Cookie" testname="thw">
+21
+<elementProp name=tracknick" elementType="Cookie" testname="tracknick">
+22
+<elementProp name=uc1" elementType="Cookie" testname="uc1">
+23
+<elementProp name=uc3" elementType="Cookie" testname="uc3">
+24
+<elementProp name=unb" elementType="Cookie" testname="unb">
+25
+<elementProp name=uss" elementType="Cookie" testname="uss">
+26
+<elementProp name=v" elementType="Cookie" testname="v">
+27
+<elementProp name=x" elementType="Cookie" testname="x">
+28
+<elementProp name=CNZZDATA30050853" elementType="Cookie" testname="CNZZDATA30050853">

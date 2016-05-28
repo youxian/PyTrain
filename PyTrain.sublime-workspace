@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dic",
+				"dict1	statement"
+			],
+			[
+				"tu",
+				"tuple1	statement"
+			],
+			[
+				"l",
+				"loginingButton"
+			],
+			[
+				"find",
+				"find_element_by_name"
+			],
+			[
+				"resp",
+				"respHtml	statement"
+			],
+			[
+				"urll",
+				"urllib2	module"
+			],
+			[
+				"sniff",
+				"sniff_key	statement"
+			],
+			[
+				"sniff_p",
+				"sniff_progress_value	statement"
+			],
+			[
+				"sniff_res",
+				"sniff_result_sitenum"
+			],
+			[
+				"str",
+				"stringOpe	module"
+			],
+			[
+				"site",
+				"site_num_int	statement"
+			],
+			[
+				"sni",
+				"sniff_button_name	statement"
+			],
+			[
+				"souc",
+				"source_num"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"shee",
+				"sheet_by_name	function"
+			],
+			[
+				"file",
+				"FileOpen	statement"
+			],
+			[
+				"url",
+				"urlopen	function"
+			],
+			[
+				"req",
+				"Request	class"
+			],
+			[
+				"di",
+				"differ	statement"
+			],
+			[
+				"his",
+				"histogram1	statement"
+			],
+			[
+				"op",
+				"operator	module"
+			],
+			[
+				"s",
+				"sqrt	function"
+			],
+			[
+				"h",
+				"histogram"
+			],
+			[
+				"temp",
+				"TEMP_FILE	statement"
+			],
+			[
+				"exce",
+				"Exception	class"
+			],
+			[
+				"ima",
+				"image_path	param"
+			],
+			[
+				"pa",
+				"PATH	statement"
+			],
+			[
+				"tem",
+				"TEMP_FILE	statement"
+			],
+			[
+				"loca",
+				"location	statement"
+			],
+			[
+				"te",
+				"TEMP_FILE	statement"
+			],
+			[
+				"g",
+				"get_screenshot_by_element"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"web",
+				"WebDriverWait	class"
+			],
+			[
+				"w",
+				"WebDriverWait	class"
+			],
+			[
+				"a",
+				"action_chains	module"
+			],
+			[
+				"c",
+				"common	module"
+			],
+			[
+				"sele",
+				"selenium	module"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"ra",
+				"range	function"
+			],
+			[
+				"d",
+				"driver	statement"
+			],
+			[
+				"r",
+				"Remote"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"app",
+				"appium"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"fin",
+				"find_element_by_name"
+			],
+			[
+				"B",
+				"BrowserText"
+			],
+			[
+				"unic",
+				"unicode〔class〕"
+			],
+			[
+				"excel",
+				"excelWrite〔variable〕"
+			],
+			[
+				"da",
+				"datetime〔class〕"
+			],
+			[
+				"con",
+				"contextname"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"writ",
+				"WriteFile"
+			],
+			[
+				"rea",
+				"ReadFile"
+			],
+			[
+				"fil",
+				"file2"
+			],
+			[
+				"wi",
+				"write"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"com",
+				"common"
+			],
+			[
+				"b",
+				"browser"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"_",
+				"_halfprivate"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"ar",
+				"arg1"
+			],
+			[
+				"la",
+				"lambdasum"
+			],
+			[
+				"arg",
+				"arg2"
+			],
+			[
+				"pri",
+				"printlong"
+			],
+			[
+				"I",
+				"IntroduceChinese"
+			],
+			[
+				"A",
+				"Animal"
+			],
+			[
+				"custo",
+				"Customer2"
+			],
+			[
+				"cus",
+				"Customer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#-*- coding :utf-8 -*-\n\nyour_age= raw_input(\"please input your age:\")\nprint type(your_age)\n\nif  your_age>11:\n	print \"teenage\"\n	print your_age\nelse:\n	print \"kid\"\n",
+			"file": "Basic/Cycle.py",
+			"file_size": 160,
+			"file_write_time": 1463295106000000,
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#-*- coding:utf-8 -*-\n\n",
+			"file": "FileOpe/JsonAnalyse.py",
+			"file_size": 40,
+			"file_write_time": 1463495465000000,
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"Package Control: istall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"te r",
+				"Set Syntax: Erlang"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"move",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"project",
+				"Project: Save As"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/chenyating/Documents/Project/PyTrain/dataStructe/tupleOpe.py",
+		"/Users/chenyating/Documents/Project/PyTrain/dataStructe/sequenceOpe.py",
+		"/Users/chenyating/Documents/Project/PyTrain/FileOpe/rename",
+		"/Users/chenyating/Documents/Project/PyTrain/FileOPe/FIleRename.py",
+		"/Users/chenyating/Documents/Project/PyTrain/dataStructe/dictOpe.py",
+		"/Users/chenyating/Documents/Project/PyTrain/dataStructe/listOpe.py",
+		"/Users/chenyating/Documents/Project/PyTrain/fileOpe/RenameFile.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Jenkins/1.sh",
+		"/Users/chenyating/Documents/Project/PyTrain/InterfaceTest/HomeInterface.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/InterfaceTest/InterfacePro.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/Login/login5.14.py",
+		"/Users/chenyating/Documents/Project/PyTrain/document/命令.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/Login/login5.14wait",
+		"/Users/chenyating/Documents/Project/PyTrain/Login/login5.14.txt",
+		"/Users/chenyating/Documents/Project/Jmeter/bin/WorkSpace/data/data.txt",
+		"/Users/chenyating/Documents/Project/Jmeter/bin/WorkSpace/data/命令.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/InterfaceTest/data.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/InterfaceTest/HomePage.xls",
+		"/Users/chenyating/Documents/Project/PyTrain/Catch/catch1.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Catch/test.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Catch/num.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/Catch/名著num.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/OnlyNum.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/iThunderSniff5.9.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffAppium1.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffSiteNum.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/Time/datetime.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffedwithoutResult.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffedwithResult.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/sniffing.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffTime.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffwithoutResult.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/waitsniff.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/stringOpe.py",
+		"/Users/chenyating/Documents/Project/PyTrain/String/stringOpe.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/iThunderSniff5.7.py",
+		"/Users/chenyating/Documents/Project/PyTrain/InterfaceTest/TestFrame.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Pic/PicCompare.py",
+		"/Users/chenyating/Documents/Project/PyTrain/FunctionTest/homePage.py",
+		"/Applications/Appium.app/Contents/Resources/node_modules/appium/lib/devices/ios/test.js",
+		"/Applications/Appium.app/Contents/Resources/node_modules/appium/lib/devices/ios/ios.js",
+		"/Users/chenyating/Documents/Project/PyTrain/InterfaceTest/TestFrame",
+		"/Users/chenyating/Documents/Project/PyTrain/PicShot/PicCompare.py",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/chenyating/Documents/Project/PyTrain/Player/player.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffAppium3.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/SniffAppium2.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Sniff/snifffinish.xml",
+		"/Users/chenyating/.codeintel/config",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/.codeintel/config",
+		"/Users/chenyating/Documents/Project/PyTrain/Exception/TEE.py",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/chenyating/Documents/Project/PyTrain/.codeintel/config",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel-master/.codeintel/config",
+		"/Users/chenyating/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/Users/chenyating/Documents/Project/PyTrain/untitled.sublime-project",
+		"/Users/chenyating/.codeintel/codeintel.log",
+		"/Users/chenyating/Documents/Project/PyTrain/HomePage/homePage.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Login/loginTest.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Login/LoginData.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/PyWorkSpace/RResultTxt.py",
+		"/Users/chenyating/Documents/Project/PyTrain/RExcel.py",
+		"/Users/chenyating/Documents/Project/PyTrain/SniffTime.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/SniffWord.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/SniffResult.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/sniffing.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/sniffweb.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/sniffing.xlm",
+		"/Users/chenyating/Desktop/webkit.sh",
+		"/Users/chenyating/Documents/Project/PyTrain/snifffinish.xml",
+		"/Users/chenyating/Documents/Project/PyTrain/1.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/SearchResult.txt",
+		"/Users/chenyating/Documents/Project/PyTrain/WebView.js",
+		"/Users/chenyating/Documents/Project/XLJS 2/LoginTestData.js",
+		"/Users/chenyating/Documents/Project/PyTrain/Class1.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Class.py",
+		"/Users/chenyating/Documents/Project/PyTrain/Function.py",
+		"/Users/chenyating/Documents/Project/Git/lib/ios_device_log/deviceconsole",
+		"/Users/chenyating/Documents/Project/Git/Troubleshooting.md",
+		"/Users/chenyating/Documents/Project/Source/CrashMonkey4IOS-master/README.md",
+		"/Users/chenyating/Documents/Project/Source/Appium/sample-code-master/examples/python/ios_simple.py",
+		"/Users/chenyating/Downloads/bookmark副本.htm",
+		"/Users/chenyating/Downloads/bookmark.htm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"=",
+			" iosDeviceString +=",
+			"second",
+			"blank",
+			"努力搜索资源中...",
+			"sniff",
+			"sniffResultBackgroundView",
+			"blank",
+			"type",
+			"browser_blank",
+			"blank",
+			"努力",
+			"blank",
+			"wait",
+			"暂无",
+			"OnlyNum",
+			"嗅探",
+			"/0/0/10",
+			"source_num",
+			"int",
+			"%",
+			"嗅探",
+			"normal",
+			"blue normal",
+			"blue",
+			"sniff_button",
+			"iosdev",
+			"space",
+			"\"space\"",
+			"space",
+			"error",
+			"etail_event_count",
+			"event_number",
+			"instru",
+			"ARGV",
+			"opts",
+			"end",
+			"＃Ruby",
+			"imagemagick"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Basic/Cycle.py",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FileOpe/JsonAnalyse.py",
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 160.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
