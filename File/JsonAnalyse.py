@@ -39,8 +39,8 @@ def main():
 
 
 	print "txt file"
-	position = "D:\PyWorkSpace\File\cookie.txt"
-	cookieResult = "D:\PyWorkSpace\File\cookieResult.txt"
+	position = "/Users/chenyating/Documents/Project/PyTrain/file/cookie.txt"
+	cookieResult = "/Users/chenyating/Documents/Project/PyTrain/file/cookieResult.txt"
 	writefile = file(cookieResult,'w')
 
 	filecontent = get_file(position)
@@ -52,28 +52,46 @@ def main():
 	i=0
 	for item in fjson:
 		i=i+1
-		writefile.write(str(i)+'\n')  
-
+		print i
+		#writefile.write(str(i)+'\n')  
+		jxmDict={}
 		#print "item",item 
 		#print "type(item):",type(item)  # <type 'dict'>
 		for itemlist in item:
 			#writefile.write(str(itemlist) +": "+ str(item[itemlist])+'\n')
         	#print "item[",itemlist,"]",item[itemlist]
         	#print "type(itemlist):",type(itemlist) #<type 'unicode'>
-        	#print u" 参数名：", itemlist,u" 参数值：", item[itemlist]
-        	
+			#print u" 参数名：", itemlist,u" 参数值：", item[itemlist]
+			
 		
 			if (str(itemlist) =="name"):
-				writefile.write("<elementProp name="+''+str(item[itemlist])+'"'+" "+"elementType="+'"'+"Cookie"+'"'+" "+"testname="+'"'+str(item[itemlist])+'">'+'\n')
-			
-			elif(str(itemlist) =="value"):
-					writefile.write("<elementProp name="+'"Cookie.'+ str(itemlist) +'">'+str(item[itemlist])+"</stringProp>"+'\n')
-			#writefile.write('''<longProp name="Cookie.expires">0</longProp>'''+'\n')
-			# 	writefile.write('''<boolProp name="Cookie.path_specified">true</boolProp>'''+'\n')
-			# 	writefile.write('''<boolProp name="Cookie.domain_specified">true</boolProp>'''+'\n')
-			# elif(str(itemlist)=="value" or "domain" or "domain" or "path"):
-			# 	writefile.write("<elementProp name="+'"Cookie.'+ str(itemlist) +'">'+str(item[itemlist])+"</stringProp>"+'\n')
+				jxmDict['name'] = str(item[itemlist])
 		
+			elif(str(itemlist) =="value"):
+				jxmDict['value'] = str(item[itemlist])
+			elif(str(itemlist) =="domain"):
+				jxmDict['domain'] = str(item[itemlist] )
+
+			else:
+				a=1
+
+		print jxmDict
+		writefile.write('''<elementProp name="'''+str(jxmDict["name"])+'''"  elementType="Cookie" "testname="'''+str(jxmDict["name"])+'">'+'\n')		
+		writefile.write("	<stringProp name="+'"Cookie.value'+'">'+str(jxmDict["value"])+"</stringProp>"+'\n')
+		writefile.write("	<stringProp name="+'"Cookie.value'+'">'+str(jxmDict["domain"])+"</stringProp>"+'\n')
+		writefile.write('''	<stringProp name="Cookie.path"></stringProp>'''+'\n')
+		writefile.write('''	<boolProp name="Cookie.secure">false</boolProp>'''+'\n')
+		writefile.write('''	<longProp name="Cookie.expires">0</longProp>'''+'\n')
+		writefile.write('''	<boolProp name="Cookie.path_specified">true</boolProp>'''+'\n')
+		writefile.write('''	<boolProp name="Cookie.domain_specified">true</boolProp>'''+'\n')
+		writefile.write('''</elementProp>'''+'\n')
+
+
+
+
+
+
+
 
 
 
