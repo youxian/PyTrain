@@ -1,7 +1,35 @@
 git init
+git status
 git commit -m 'PyTrain'   -------存储时的标记（修改了哪些地方，方便下次查询） 
 git add .    -------------------存储到本地
 git remote add origin git@github.com:youxian/PyTrain.git
 git push origin master
 
- 
+
+
+ <CookieManager guiclass="CookiePanel" testclass="CookieManager" testname="HTTP Cookie 管理器" enabled="true">
+          <collectionProp name="CookieManager.cookies">
+            <elementProp name="appId" elementType="Cookie" testname="appId">
+
+
+              <stringProp name="Cookie.value">11111111</stringProp>
+              <stringProp name="Cookie.domain">m.sjzhushou.com</stringProp>
+              <stringProp name="Cookie.path"></stringProp>
+              <boolProp name="Cookie.secure">false</boolProp>
+              <longProp name="Cookie.expires">0</longProp>
+              <boolProp name="Cookie.path_specified">true</boolProp>
+              <boolProp name="Cookie.domain_specified">true</boolProp>
+            </elementProp>
+          </collectionProp>
+          <boolProp name="CookieManager.clearEachIteration">false</boolProp>
+        </CookieManager>
+      
+
+
+name
+	value
+	domain
+	secure  		  false
+	expires			  0
+	path_specified    true
+	domain_specified  true
