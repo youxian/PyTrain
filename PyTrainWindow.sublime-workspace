@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ite",
+				"itemlist〔variable〕"
+			],
+			[
+				"it",
+				"itemlist〔variable〕"
+			],
+			[
+				"item",
+				"item2〔variable〕"
+			],
+			[
+				"iteml",
+				"itemlist1"
+			],
+			[
+				"load",
+				"loads〔function〕"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"list",
+				"list1〔variable〕"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"url",
+				"url3〔variable〕"
+			],
+			[
+				"w",
+				"writeFile"
+			],
+			[
+				"num",
+				"num_convert〔variable〕"
+			],
+			[
+				"s",
+				"str_convert"
+			],
+			[
+				"str",
+				"str_convert〔variable〕"
+			],
+			[
+				"key",
+				"key1〔variable〕"
+			],
+			[
+				"sys",
+				"sys1〔variable〕"
+			],
+			[
+				"cook",
+				"cookie1〔variable〕"
+			],
+			[
+				"ge",
+				"get_content"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"SAVE",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/PyWorkSpace/File/JsonAnalyse.py",
+		"/D/PyWorkSpace/Train/dict.py",
+		"/D/PyWorkSpace/File/cookieResult.txt",
+		"/D/PyWorkSpace/File/sniffliurui.py",
+		"/D/PyWorkSpace/File/RResultTxt.py",
+		"/D/PyWorkSpace/File/RExcel.py",
+		"/D/PyWorkSpace/File/RExcel1.py",
+		"/D/PyWorkSpace/File/RTimeTxt.py",
+		"/D/PyWorkSpace/File/WExcel1.py",
+		"/D/PyWorkSpace/catch/pingfen.txt",
+		"/D/PyWorkSpace/catch/test.txt",
+		"/D/PyWorkSpace/catch/cookie.py",
+		"/D/PyWorkSpace/PythonAutoTest/HttpClient.py",
+		"/D/PyWorkSpace/Train/biggestList.py",
+		"/D/PyWorkSpace/File/json-xml.PY",
+		"/D/PyWorkSpace/File/json-xml",
+		"/D/PyWorkSpace/catch/jenkinsCrash.sh",
+		"/D/PyWorkSpace/catch/deleteSameStr.py",
+		"/D/PyWorkSpace/catch/test1.txt",
+		"/D/PyWorkSpace/catch/reHtmlNum.py",
+		"/D/PyWorkSpace/catch/catchHtml.py",
+		"/D/PyWorkSpace/RWFile/RResultTxt.py",
+		"/D/PyWorkSpace/catch/num.txt",
+		"/D/PyWorkSpace/catch/catchHtml2.py",
+		"/D/PyWorkSpace/catch/wuxia.txt",
+		"/D/PyWorkSpace/catch/xuanyi.txt",
+		"/D/PyWorkSpace/catch/xuanhuan.txt",
+		"/D/PyWorkSpace/RWFile/RTimeTxt.py",
+		"/D/PyWorkSpace/catch/test.py",
+		"/D/PyWorkSpace/DB/DB_Search.py",
+		"/C/Users/CYT/AppData/Roaming/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/D/PyWorkSpace/1.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"itemlist1",
+			"              ",
+			"i",
+			"        	#",
+			"print",
+			"itemlist",
+			"60352",
+			"69525",
+			"+\")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"itemlist",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}
