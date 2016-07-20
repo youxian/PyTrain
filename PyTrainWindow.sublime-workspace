@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"urll",
+				"urllib2"
+			],
+			[
+				"pos",
+				"postMsg"
+			],
+			[
+				"resp",
+				"respInfo"
+			],
+			[
+				"a",
+				"add_header〔function〕"
+			],
+			[
+				"po",
+				"postData"
+			],
+			[
+				"coo",
+				"cookielib〔module〕"
+			],
+			[
+				"sen",
+				"sendMgs〔function〕"
+			],
+			[
+				"test",
+				"test_def2"
+			],
+			[
+				"w",
+				"writelines〔function〕"
+			],
+			[
+				"py",
+				"pyplot〔module〕"
+			],
+			[
+				"ma",
+				"math〔module〕"
+			],
+			[
+				"ima",
+				"image2〔variable〕"
+			],
+			[
+				"file",
+				"filepath2〔argument〕"
+			],
+			[
+				"op",
+				"operator〔module〕"
+			],
+			[
 				"ite",
 				"itemlist〔variable〕"
 			],
@@ -40,10 +96,6 @@
 				"url3〔variable〕"
 			],
 			[
-				"w",
-				"writeFile"
-			],
-			[
 				"num",
 				"num_convert〔variable〕"
 			],
@@ -75,6 +127,25 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "#-*- coding: UTF-8 -*-\n#!/usr/bin/python\n\n\nimport urllib\nimport xrld\nimport json\n\ndef  operTestCase(file):\n	fileOpen = xrld",
+			"file": "InterfaceTest/FileOpe.py",
+			"file_size": 117,
+			"file_write_time": 131134798508723475,
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Html/postWeixinMessage.py",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -132,6 +203,26 @@
 	},
 	"file_history":
 	[
+		"/D/PyTrain/PythonAutoTest/HttpClient.py",
+		"/D/PyTrain/File/JsonAnalyse.py",
+		"/D/PyTrain/Html/test.py",
+		"/D/PyTrain/Html/postWeixinMessage.py",
+		"/D/PyTrain/webqq-master/login.py",
+		"/D/PyTrain/Train/for.py",
+		"/D/PyTrain/DataStructe/qianxiangyinyong.py",
+		"/D/PyTrain/DataStructe/test_def2.py",
+		"/D/PyTrain/DataStructe/test_def1.py",
+		"/D/PyTrain/webqq-master/login_qq.py",
+		"/D/PyTrain/Html/catchHtml.py",
+		"/D/PyTrain/Html/catchHtml2.py",
+		"/D/PyTrain/Html/cookie.py",
+		"/D/PyTrain/Html/postQQMessage.py",
+		"/D/PyTrain/webqq-master/smartqq/__init__.py",
+		"/D/PyTrain/DataStructe/listOpe.py",
+		"/D/PyTrain/Image/PythonRegister.py",
+		"/D/PyTrain/Image/imageCompare.py",
+		"/D/PyTrain/PyTrain.sublime-project",
+		"/D/PyTrain/PyTrainWindow.sublime-project",
 		"/D/PyWorkSpace/File/JsonAnalyse.py",
 		"/D/PyWorkSpace/Train/dict.py",
 		"/D/PyWorkSpace/File/cookieResult.txt",
@@ -181,6 +272,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"req",
+			"html1",
+			"cookie",
+			"r",
+			"()",
 			"itemlist1",
 			"              ",
 			"i",
@@ -209,8 +305,65 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "InterfaceTest/FileOpe.py",
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Html/postWeixinMessage.py",
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 215.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -245,6 +398,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 230.0
+	},
 	"replace":
 	{
 		"height": 64.0

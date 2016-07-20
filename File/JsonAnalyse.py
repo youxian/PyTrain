@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-
+ 
 import urllib2
 import httplib2
 import sys 
@@ -39,8 +39,10 @@ def main():
 
 
 	print "txt file"
-	position = "/Users/chenyating/Documents/Project/PyTrain/file/cookie.txt"
-	cookieResult = "/Users/chenyating/Documents/Project/PyTrain/file/cookieResult.txt"
+	#position = "/Users/chenyating/Documents/Project/PyTrain/file/cookie.txt"
+	#cookieResult = "/Users/chenyating/Documents/Project/PyTrain/file/cookieResult.txt"
+	position = "D:/Document/cookie.txt"
+	cookieResult = "D:/Document/cookieResult.txt"
 	writefile = file(cookieResult,'w')
 
 	filecontent = get_file(position)
@@ -76,15 +78,15 @@ def main():
 				a=1
 
 		print jxmDict
-		writefile.write('''<elementProp name="'''+str(jxmDict["name"])+'''"  elementType="Cookie" "testname="'''+str(jxmDict["name"])+'">'+'\n')		
-		writefile.write("	<stringProp name="+'"Cookie.value'+'">'+str(jxmDict["value"])+"</stringProp>"+'\n')
-		writefile.write("	<stringProp name="+'"Cookie.value'+'">'+str(jxmDict["domain"])+"</stringProp>"+'\n')
-		writefile.write('''	<stringProp name="Cookie.path"></stringProp>'''+'\n')
-		writefile.write('''	<boolProp name="Cookie.secure">false</boolProp>'''+'\n')
-		writefile.write('''	<longProp name="Cookie.expires">0</longProp>'''+'\n')
-		writefile.write('''	<boolProp name="Cookie.path_specified">true</boolProp>'''+'\n')
-		writefile.write('''	<boolProp name="Cookie.domain_specified">true</boolProp>'''+'\n')
-		writefile.write('''</elementProp>'''+'\n')
+		writefile.writelines('''<elementProp name="'''+str(jxmDict["name"])+'''"  elementType="Cookie"  testname="'''+str(jxmDict["name"])+'">'+'\n')		
+		writefile.writelines("	<stringProp name="+'"Cookie.value'+'">'+str(jxmDict["value"])+"</stringProp>"+'\n')
+		writefile.writelines("	<stringProp name="+'"Cookie.domain'+'">'+str(jxmDict["domain"])+"</stringProp>"+'\n')
+		writefile.writelines('''	<stringProp name="Cookie.path"></stringProp>'''+'\n')
+		writefile.writelines('''	<boolProp name="Cookie.secure">false</boolProp>'''+'\n')
+		writefile.writelines('''	<longProp name="Cookie.expires">0</longProp>'''+'\n')
+		writefile.writelines('''	<boolProp name="Cookie.path_specified">true</boolProp>'''+'\n')
+		writefile.writelines('''	<boolProp name="Cookie.domain_specified">true</boolProp>'''+'\n')
+		writefile.writelines('''</elementProp>'''+'\n')
 
 
 
